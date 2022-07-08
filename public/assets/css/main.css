@@ -1,0 +1,71 @@
+:root{
+  --btn-background-1: -webkit-gradient(radial, -36 22, 0, -47 -341, 465, from(#3c4914), to(#1d1774));
+  --bg-white-opasiti: rgba(240, 228, 228, 0.4);
+}
+body{
+  background-color: #131313;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+main{
+  background: url(../img/bg_img.jpg) no-repeat 100% 100% fixed;
+  background-size: cover;
+}
+.btn-primary{
+  background:-webkit-gradient(radial, -36 22, 0, -47 -341, 465, from(#2359ce), to(#cc1d1d));
+  border-color: gray;
+}
+.btn-primary:hover, .btn-primary:focus{
+  border-color: white;
+}
+h2{
+  color: white;
+}
+p{
+  color: rgba(255,255,255,.55);
+}
+.btn-outline-success{
+  color: red;
+  border-color: red;
+}
+.btn-outline-success:hover, .btn-outline-success:focus{
+  background-color: blue;
+  border-color: blue;
+}
+.form-control {
+  background-color: rgb(197, 197, 197);
+  border: 1px solid red;
+}
+.form-control:focus {
+  background-color: var(--bg-white-opasiti);
+  border: 1px solid red;
+}
+.navbar-dark .navbar-toggler {
+  color: red;
+  border-color: red;
+}
+.news-block{
+  height: 100%;
+  background: rgba(211, 211, 212, 0.1);
+  border-radius: 0.25rem;
+  border-color: #bcbebf;
+  cursor: pointer;
+}
+.cap-news{
+  height: 350px;
+}
+
+
+element.style {
+  display: grid;
+}
+
+#login-img{
+  width: 40px;
+  height: 40px;
+}
