@@ -33,7 +33,6 @@ The project visualizes the work of a news site on the topic of eSports. Using it
 - Creating your own API
 - Authorization through Google
 - Search for information and navigation on the site
-- Navigation on the site
 
 <b>UA:</b>
 - Використання Bootstrap (front-end framework)
@@ -42,7 +41,6 @@ The project visualizes the work of a news site on the topic of eSports. Using it
 - Створення власного API
 - Авторизація через Google
 - Пошук інформації та навігація по сайту
-- Навігація по сайту
 #
 ## License
 ```
