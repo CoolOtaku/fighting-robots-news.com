@@ -6,13 +6,13 @@
 
 This is a revised version of the course project that was ordered from me ([fighting-robots-news](https://github.com/CoolOtaku/fighting-robots-news)).
 
-The project visualizes the work of a news site on the topic of eSports. Using its own API.
+The project visualizes the work of a news site on the topic of eSports. Using its own **API**.
 
 <b>UA:</b>
 
 Це доопрацьована версія курсового проекту який в мене заказали ([fighting-robots-news](https://github.com/CoolOtaku/fighting-robots-news)).
 
-Проект візуалізує роботу новинного сайту на тему кіберспорту. З використанням власного API.
+Проект візуалізує роботу новинного сайту на тему кіберспорту. З використанням власного **API**.
 
 #
 ## Screenshots
@@ -27,20 +27,21 @@ The project visualizes the work of a news site on the topic of eSports. Using it
 #
 ## Technologies used
 <b>EN:</b>
-- Using Bootstrap (front-end framework)
-- Using a third-party template for site layout (built on Bootstrap)
-- Using a MySQL database
-- Creating your own API
-- Authorization through Google
+- Using **Bootstrap** (front-end framework)
+- Using a third-party template for site layout (built on **Bootstrap**)
+- Using a **MySQL** database
+- Creating your own **API**
+- Authorization through **Google**
 - Search for information and navigation on the site
 
 <b>UA:</b>
-- Використання Bootstrap (front-end framework)
-- Використання стороннього шаблону для макета сайту (на основі Bootstrap)
-- Використання бази даних MySQL
-- Створення власного API
-- Авторизація через Google
+- Використання **Bootstrap** (front-end framework)
+- Використання стороннього шаблону для макета сайту (на основі **Bootstrap**)
+- Використання бази даних **MySQL**
+- Створення власного **API**
+- Авторизація через **Google**
 - Пошук інформації та навігація по сайту
+
 #
 ## License
 ```
