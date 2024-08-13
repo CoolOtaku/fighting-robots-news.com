@@ -27,16 +27,22 @@ The project visualizes the work of a news site on the topic of eSports. Using it
 #
 ## Technologies used
 <b>EN:</b>
-- Using **Bootstrap** (front-end framework)
-- Using a third-party template for site layout (built on **Bootstrap**)
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Using a third-party template for site layout (built on [**Bootstrap**](https://getbootstrap.com))
+- Using the library [**jQuery**](https://jquery.com)
+- Using the library [**SweetAlert2**](https://sweetalert2.github.io)
+- Using the ***Cookie*** system
 - Using a **MySQL** database
 - Creating your own **API**
 - Authorization through **Google**
 - Search for information and navigation on the site
 
 <b>UA:</b>
-- Використання **Bootstrap** (front-end framework)
-- Використання стороннього шаблону для макета сайту (на основі **Bootstrap**)
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Використання стороннього шаблону для макета сайту (на основі [**Bootstrap**](https://getbootstrap.com))
+- Використання бібліотеки [**jQuery**](https://jquery.com)
+- Використання бібліотеки [**SweetAlert2**](https://sweetalert2.github.io)
+- Використання системи ***Cookie***
 - Використання бази даних **MySQL**
 - Створення власного **API**
 - Авторизація через **Google**
